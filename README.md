@@ -1,11 +1,15 @@
+<div align="center">
+
 # Conversor de Monedas
 
-¡Bienvenido/a al Conversor de Monedas! Este es un proyecto desarrollado en Java que te permite convertir entre varias monedas utilizando el tipo de cambio actual proporcionado por la API [ExchangeRate-API](https://www.exchangerate-api.com/).
+</div>
 
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=Por%20Mejorar&color=LIGHTBLUE&style=for-the-badge" />
    <img src="https://img.shields.io/badge/language-Java-007396?style=for-the-badge"/>
 </p>
+
+¡Bienvenido/a al Conversor de Monedas! Este es un proyecto desarrollado en Java que te permite convertir entre varias monedas utilizando el tipo de cambio actual proporcionado por la API [ExchangeRate-API](https://www.exchangerate-api.com/).
 
 ## Funcionalidades
 
@@ -51,7 +55,7 @@ Al seleccionar una de las opciones del menú, te solicita ingresar un monto y se
 
 ## ✒️ Autores 
 
-[<img src="https://github.com/user-attachments/assets/1e99f8e5-f229-4128-837a-554d2844c64c" width=115><br><sub>Kurt Angeles</sub>](https://github.com/kurttck)
+[<img src="https://avatars.githubusercontent.com/u/82422415?v=4" width=115><br><sub>Kurt Angeles</sub>](https://github.com/kurttck)
 
 ## 😊 Contacto 
 
