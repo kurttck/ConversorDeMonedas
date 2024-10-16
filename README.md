@@ -46,7 +46,7 @@ Al seleccionar una de las opciones del menú, te solicita ingresar un monto y se
 
 ## 🏠 Estructura del Proyecto
 
-* El proyecto está organizado en los siguientes paquetes:
+* El proyecto está organizado por lo siguiente:
 
 1. **main:** Contiene la clase `Main` que maneja el flujo de la aplicación y un metodo `showConversion` donde se le pasa dos variables monedabase y monedacambio para imprimir todo el proceso.
 2. **solicitarcambio**: Contiene la clase `SolicitarCambio` aqui se realiza la solicitud HTTP a la API, en este caso como "ExChangerate" nos facilita un endpoint donde podemos colocar el tipo de cambio y el monto y nos envia la conversión la utilizamos.  
